@@ -1,2 +1,2 @@
-# android-calculate-age-in-mins
-Android learning project
+# A basic project in kotlin to calculate the age in minutes. 
+
